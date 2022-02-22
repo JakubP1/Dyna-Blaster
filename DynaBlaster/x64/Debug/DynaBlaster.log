@@ -1,0 +1,37 @@
+﻿  Bomber.cpp
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\boost.h(18): warning C4091: 'static ': ignored on left of 'CBoost::SpecialType' when no variable is declared
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(207,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(207,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(207,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(207,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(216,33): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(218,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(218,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(218,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(218,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(232,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(232,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(232,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(232,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(243,36): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(245,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(245,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(245,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(245,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(303,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(303,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(303,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(303,94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(331,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(331,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(331,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(331,95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(416,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(422,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(921,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(924,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(983,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jakub\source\repos\DynaBlaster\DynaBlaster\Bomber.cpp(983,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DynaBlaster.vcxproj -> C:\Users\Jakub\source\repos\DynaBlaster\x64\Debug\DynaBlaster.exe
